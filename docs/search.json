@@ -7,6 +7,20 @@
     "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder. You can access this folder via your university login credentials if you want to download those."
   },
   {
+    "objectID": "apps.html",
+    "href": "apps.html",
+    "title": "MC3020",
+    "section": "",
+    "text": "Statistical Inference_R Shiny apps"
+  },
+  {
+    "objectID": "apps.html#some-useful-links",
+    "href": "apps.html#some-useful-links",
+    "title": "MC3020",
+    "section": "",
+    "text": "Statistical Inference_R Shiny apps"
+  },
+  {
     "objectID": "exercise.html",
     "href": "exercise.html",
     "title": "About",
@@ -67,18 +81,39 @@
     "href": "news.html",
     "title": "MC3020",
     "section": "",
-    "text": "Assignment 01: 02 - 05 - 2023 (Exam covers Lect_1 and Lect_2 slides)\nAssignment 02: 06 - 06 - 2023 (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 16 - 06 - 2023\nAssignment 04: 04 - 07 - 2023\nMid-semester examination: 23 - 05 -2023 (Exam covers Lect_1, Lect_2 and Lect_3 slides)\nEnd of course examination (to be scheduled)"
+    "text": "Assignment 01: 02 - 05 - 2023 (Exam covers Lect_1 and Lect_2 slides)\nAssignment 02: 06 - 06 - 2023 (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 23 - 06 - 2023 (Exam covers Lect_4 and Lect_5 slides)\nAssignment 04: 11 - 07 - 2023 (Exam covers Lect_6 and Lect_7 slides)\nMid-semester examination: 23 - 05 -2023 (Exam covers Lect_1, Lect_2 and Lect_3 slides)\nEnd of course examination (to be scheduled)"
+  },
+  {
+    "objectID": "news.html#important-dates-tentative",
+    "href": "news.html#important-dates-tentative",
+    "title": "MC3020",
+    "section": "",
+    "text": "Assignment 01: 02 - 05 - 2023 (Exam covers Lect_1 and Lect_2 slides)\nAssignment 02: 06 - 06 - 2023 (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 23 - 06 - 2023 (Exam covers Lect_4 and Lect_5 slides)\nAssignment 04: 11 - 07 - 2023 (Exam covers Lect_6 and Lect_7 slides)\nMid-semester examination: 23 - 05 -2023 (Exam covers Lect_1, Lect_2 and Lect_3 slides)\nEnd of course examination (to be scheduled)"
   },
   {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Lecture notes",
     "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n28-03-23\n31-03-23\nWeek 1\nBasic concept of probability;\nLect 1\nMr T. Mayooran\n\n\n04-04-23\n07-04-23\nWeek 2\nDiscrete probability distributions;\nLect 2\nMr T. Mayooran\n\n\n11-04-23\n14-04-23\nWeek 3\nNew Year Vacation\n\n\n\n\n18-04-23\n21-04-23\nWeek 4\nTutorial / Continuous probability distribution;\nTutorials 1 and 2\nTutors / Mr T. Mayooran\n\n\n25-04-23\n28-04-23\nWeek 5\nContinuous probability distribution\nLect 3\nStatistical Table\nMr T. Mayooran\n\n\n02-05-23\n05-05-23\nWeek 6\nAssignment 1\n\nMr T. Mayooran\n\n\n09-05-23\n12-05-23\nWeek 7\nStatistical Inferences\nLect 4\nMr T. Mayooran\n\n\n16-05-23\n19-05-23\nWeek 8\nTutorial\nTutorial 3\nTutors / Mr T. Mayooran\n\n\n23-05-23\n26-05-23\nWeek 9\nMid semester\n\nMr T. Mayooran\n\n\n30-05-23\n02-06-23\nWeek 10\nTutorial / Assignment 2\nTutorial 4\nTutors / Mr T. Mayooran\n\n\n06-06-23\n09-06-23\nWeek 11\nStatistical Inferences\n\n\n\n\n13-06-23\n16-06-23\nWeek12\nTutorial / Assignment 3\n\nTutors / Mr T. Mayooran\n\n\n20-06-23\n23-06-23\nWeek 13\n\n\nMr T. Mayooran\n\n\n27-06-23\n30-06-23\nWeek 14\n\n\nMr T. Mayooran\n\n\n04-07-23\n07-07-23\nWeek 15\nTutorial / Assignment 4\n\nTutors / Mr T. Mayooran\n\n\n11-07-23\n14-07-23\nWeek 16\nRevisions\n\nMr T. Mayooran"
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n28-03-23\n31-03-23\nWeek 1\nBasic concept of probability;\nLect 1\nMr T. Mayooran\n\n\n04-04-23\n07-04-23\nWeek 2\nDiscrete probability distributions;\nLect 2\nMr T. Mayooran\n\n\n11-04-23\n14-04-23\nWeek 3\nNew Year Vacation\n\n\n\n\n18-04-23\n21-04-23\nWeek 4\nTutorial / Continuous probability distribution;\nTutorials 1 and 2\nTutors / Mr T. Mayooran\n\n\n25-04-23\n28-04-23\nWeek 5\nContinuous probability distribution\nLect 3\nStatistical Table\nMr T. Mayooran\n\n\n02-05-23\n05-05-23\nWeek 6\nAssignment 1\n\nMr T. Mayooran\n\n\n09-05-23\n12-05-23\nWeek 7\nStatistical Inferences 1\nLect 4\nMr T. Mayooran\n\n\n16-05-23\n19-05-23\nWeek 8\nTutorial\nTutorial 3\nTutors / Mr T. Mayooran\n\n\n23-05-23\n26-05-23\nWeek 9\nMid semester\n\nMr T. Mayooran\n\n\n30-05-23\n02-06-23\nWeek 10\nTutorial / Assignment 2\nTutorial 4\nTutors / Mr T. Mayooran\n\n\n06-06-23\n09-06-23\nWeek 11\nStatistical Inferences 1\n\n\n\n\n13-06-23\n16-06-23\nWeek12\nStatistical Inferences 2\nLect 5\nTutors / Mr T. Mayooran\n\n\n20-06-23\n23-06-23\nWeek 13\nTutorial / Assignment 3\nTutorial 5\nMr T. Mayooran\n\n\n27-06-23\n30-06-23\nWeek 14\nLinear Regression\n\nMr T. Mayooran\n\n\n04-07-23\n07-07-23\nWeek 15\nTutorial / Time series\n\nTutors / Mr T. Mayooran\n\n\n11-07-23\n14-07-23\nWeek 16\nAssignment4/ Revisions\n\nMr T. Mayooran"
+  },
+  {
+    "objectID": "notes.html#course-schedule-tentative",
+    "href": "notes.html#course-schedule-tentative",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n28-03-23\n31-03-23\nWeek 1\nBasic concept of probability;\nLect 1\nMr T. Mayooran\n\n\n04-04-23\n07-04-23\nWeek 2\nDiscrete probability distributions;\nLect 2\nMr T. Mayooran\n\n\n11-04-23\n14-04-23\nWeek 3\nNew Year Vacation\n\n\n\n\n18-04-23\n21-04-23\nWeek 4\nTutorial / Continuous probability distribution;\nTutorials 1 and 2\nTutors / Mr T. Mayooran\n\n\n25-04-23\n28-04-23\nWeek 5\nContinuous probability distribution\nLect 3\nStatistical Table\nMr T. Mayooran\n\n\n02-05-23\n05-05-23\nWeek 6\nAssignment 1\n\nMr T. Mayooran\n\n\n09-05-23\n12-05-23\nWeek 7\nStatistical Inferences 1\nLect 4\nMr T. Mayooran\n\n\n16-05-23\n19-05-23\nWeek 8\nTutorial\nTutorial 3\nTutors / Mr T. Mayooran\n\n\n23-05-23\n26-05-23\nWeek 9\nMid semester\n\nMr T. Mayooran\n\n\n30-05-23\n02-06-23\nWeek 10\nTutorial / Assignment 2\nTutorial 4\nTutors / Mr T. Mayooran\n\n\n06-06-23\n09-06-23\nWeek 11\nStatistical Inferences 1\n\n\n\n\n13-06-23\n16-06-23\nWeek12\nStatistical Inferences 2\nLect 5\nTutors / Mr T. Mayooran\n\n\n20-06-23\n23-06-23\nWeek 13\nTutorial / Assignment 3\nTutorial 5\nMr T. Mayooran\n\n\n27-06-23\n30-06-23\nWeek 14\nLinear Regression\n\nMr T. Mayooran\n\n\n04-07-23\n07-07-23\nWeek 15\nTutorial / Time series\n\nTutors / Mr T. Mayooran\n\n\n11-07-23\n14-07-23\nWeek 16\nAssignment4/ Revisions\n\nMr T. Mayooran"
   },
   {
     "objectID": "Past_exam.html",
     "href": "Past_exam.html",
+    "title": "MC3020",
+    "section": "",
+    "text": "No\nModel answer\n\n\n\n\nAssignment 1\nAssign_1\n\n\nAssignment 2\nAssign_2\n\n\nAssignment 3\nAssign_3\n\n\nAssignment 4\nAssign_4"
+  },
+  {
+    "objectID": "Past_exam.html#assignment-exam-papers-will-be-updated-later-on",
+    "href": "Past_exam.html#assignment-exam-papers-will-be-updated-later-on",
     "title": "MC3020",
     "section": "",
     "text": "No\nModel answer\n\n\n\n\nAssignment 1\nAssign_1\n\n\nAssignment 2\nAssign_2\n\n\nAssignment 3\nAssign_3\n\n\nAssignment 4\nAssign_4"
@@ -98,8 +133,29 @@
     "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nMr T. Mayooran (📧)\nMiss S. Thawsika (📧)\n\n\n\n\n\nMiss M. Mathangi (📧)\nMiss M. Rogetha (📧)"
   },
   {
+    "objectID": "teaching.html#lecturers",
+    "href": "teaching.html#lecturers",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Mr T. Mayooran (📧)\nMiss S. Thawsika (📧)"
+  },
+  {
+    "objectID": "teaching.html#tutors",
+    "href": "teaching.html#tutors",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Miss M. Mathangi (📧)\nMiss M. Rogetha (📧)"
+  },
+  {
     "objectID": "tutorials.html",
     "href": "tutorials.html",
+    "title": "MC3020",
+    "section": "",
+    "text": "Tutorial 01: To download this tutorial in pdf format, please click here.📑\nTutorial 02: To download this tutorial in pdf format, please click here.📑\nTutorial 03: To download this tutorial in pdf format, please click here.📑\nTutorial 04: To download this tutorial in pdf format, please click here.📑"
+  },
+  {
+    "objectID": "tutorials.html#tutorials",
+    "href": "tutorials.html#tutorials",
     "title": "MC3020",
     "section": "",
     "text": "Tutorial 01: To download this tutorial in pdf format, please click here.📑\nTutorial 02: To download this tutorial in pdf format, please click here.📑\nTutorial 03: To download this tutorial in pdf format, please click here.📑\nTutorial 04: To download this tutorial in pdf format, please click here.📑"
